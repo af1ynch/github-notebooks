@@ -182,5 +182,5 @@ Markdown 支持两种形式的链接语法：行内式和参考式两种形式
 
 --------------------------
 参考自:   
-[GitHub中的README.MD文件编写语法](http://blogread.cn/it/article/7333?f=hot1&utm_source=tuicool&utm_medium=referral)
+[GitHub中的README.MD文件编写语法](http://blogread.cn/it/article/7333?f=hot1&utm_source=tuicool&utm_medium=referral)   
 [GitHub上README.md教程](http://blog.csdn.net/kaitiren/article/details/38513715)
